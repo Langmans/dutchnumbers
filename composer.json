@@ -1,0 +1,17 @@
+{
+    "name": "rubenvincenten/dutchnumbers",
+    "description": "Format a number in dutch as fully written",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ruben Vincenten",
+            "email": "rubenvincenten@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "classmap": ["."]
+    }
+}
